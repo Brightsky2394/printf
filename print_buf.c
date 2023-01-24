@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_buf - prints buffer
- * @buf: buffer pointer
+ * @buf: buffer pointers
  * @nbuf: number of bytes to print
  * Return: number of bytes printed.
  **/
